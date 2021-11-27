@@ -1,0 +1,22 @@
+{
+  "data1": {
+    "billAmount": 111,
+    "transAmount": "111",
+    "Turnover": "111",
+    "actualIncome": "111",
+    "discountedPrice": "111",
+    "refundAmount": "111",
+    "handlingFee": "111",
+    "NumberOfTransactions": "111"
+  },
+  "data2": {
+    "billAmount": 222,
+    "transAmount": "222",
+    "Turnover": "222",
+    "actualIncome": "222",
+    "discountedPrice": "222",
+    "refundAmount": "222",
+    "handlingFee": "222",
+    "NumberOfTransactions": "222"
+  }
+}
